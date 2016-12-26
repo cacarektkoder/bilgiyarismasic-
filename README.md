@@ -1,0 +1,2 @@
+# bilgiyarismasic-
+C# Bilgi Yarismasi 
